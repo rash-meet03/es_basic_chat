@@ -1,0 +1,342 @@
+What is a digital certificate or a digital signature certificate (DSC)?
+A digital certificate or a digital signature certificate(DSC) is a digital record of credentials of an individual or an organization. It verifies the ingenuity of an entity involved in an online transaction. DSCs come in handy during online transactions including e­-filing of income tax return, e-­tendering, online monetary transactions etc. over the internet. They are also used during exchange of confidential information through e­mails to ensure security and originality of the information as well as its sender.
+
+What is a digital signature?
+A digital signature is an electronic form of signature which verifies the authenticity of a digital document. Digital signatures also verify the identity or authenticity of the sender of the information over the Internet. They also add up to security measures employed during any online transactions.
+
+What is the difference between a digital signature and a digital signature certificate (DSC)?
+Digital signatures offer authenticity verification, privacy and security to its users during online transactions and exchange of information. Digital signatures are used for secure messaging, online banking application use, secure online workflow applications, supply chain management etc.
+
+Digital signature certificate contains the record of the holder of the certificate and details of the digital certificate.
+
+These are digital documents which verify that a digital authentication associated to an individual or a specific entity does exists. Digital certificate helps prevent any sort of jeopardy to the identity and security of an individual or an entity, from an impersonator.
+
+
+Why do I need a Digital Signature Certificate?
+A digital signature certificate is an electronic authenticity of one’s identity. It also offers a top ­notch security and privacy to user’s online transactions. Certificates can also be used to encrypt the information which will ensure that only the intended recipient can go through it. Digitally signing an information also assures the user that the information cannot be changed by a third party half way during transaction. It also verifies user’s identity as the sender of the information.
+
+What are the different types of DSC?
+Class 1 certificate: This digital certificate is issued to an individual for personal use. User may employ the certificate to prove the authenticity of his identity or of the information shared by him. It is mandatory for an individual, applying for a class 1 certificate, to have a valid e­mail id.
+Class 2 certificate: This sort of digital signature is issued to individuals involved with an organization as well as for the personal use of an individual. Class 2 certificate is used to complete transactions which involves the Ministry of corporate affairs or the Registrar of companies. A person applying for a class 2 certificate needs to present a valid identity proof as well as the address proof.
+Class 3 certificate: Class 3 digital certificate is considered the most exclusive and safest form of digital ID to provide authentication and security for your online presence. It is mandatory for organizations and individuals involved in online e-­tendering, e-­procurement, patent filing and trademark filing process to have a valid class 3 certificate. The person applying for this form of certificate should first register themselves physically before the certifying authority to prove their identity
+
+What is a Root certificate?
+A root certificate is self ­signed or self recognized public key certificate that identifies the Root Certificate Authority (CA). Root Certifying Authority of India (RAI) is responsible for issuing root certificates in India.
+
+What is Digital Time Stamping?
+As the name suggests,a digital time ­stamping service issues time­ stamps. The function of Digital time stamp is similar to any other time stamp i.e. to denote date & time of an action on a document. Digital time­stamps are used to verify the original date of creation of a document.
+
+Are Digital Signatures legally valid in India?
+Yes, the Information Technology Act of 2000 confirms the legal validity of digital signatures in India.
+
+Where can I use Digital Signature Certificates?
+Secure exchange of information and online transactions
+Encrypting an information in an e­mail
+Identifying participants of an online transaction
+Proving authorship of a digital content
+Filing income tax returns
+Transactions with Ministry of Corporate Affairs
+Applying for e­-tenders
+Proving the authenticity of a trademark
+
+Capricorn DSC Channel Program
+Can we commence business with Capricorn without even having to invest?
+Yes, we do have a “zero investment” account for those who are new to the DSC business or are willing to initially try our system.
+
+How long does it take to create an account (Partner / Reseller) login?
+Once we receive the registration form along with supporting documents and payment requisite to open your account with us, your account gets created/opened within 15-20 minutes and is ready to use.
+
+How can we get the commission or service fee (TBR)?
+You get the commission or service fee (TBR) by raising an invoice in the name of Capricorn Identity Services Pvt. Ltd. which is available in the download section of your login, you need to digitally sign it and upload the same under Payments >> Service fee section. Once uploaded, it gets credited into your bank account/wallet as per your preference within 3 working days.
+
+Types of tokens supported in your system?
+M-Token Safenet 5110 Proxkey Epass auto 2003
+
+Does Capricorn sell tokens?
+Yes, Capricorn sells Capricorn-branded M-tokens, WD proxkey tokens.
+
+Can we use old tokens for downloading the DSC’s?
+Although, we have a provision or an option by which one can use the old token to download the DSC’s i.e. Cash solution Version 1.0.5 we strongly recommend using the new token FIPS - 140 level 2 which is as per the CCA guidelines.
+
+What is the process to create the DSC’s?
+Digital Signature Certificates (DSCs) for individuals can be obtained either through PAN or Aadhar, while organizations can use the GST-based method for a secure and digital procedure.
+
+What are the minimum system software and hardware requirement for downloading DSC’s?
+One should have Windows 7 and above version of the operating system to download the DSCs.
+
+Can the DSC application be processed through a mobile application?
+Yes, we have a mobile application under the name and style of “Capricorn DSC Channel” on the google play store. By using this app, one can process DSC applications for their respective clients.
+
+Is there any option to upload the videos received through WhatsApp or by other means?
+No, we do not accept videos that are sent through WhatsApp or by any other means. You have the following options to get the video recording done;
+
+(a) Capricorn Customer Application available on (Google Play store & Apple Store)
+
+(b) Through the direct link which is sent to the customer on his/her registered email.
+
+(c) Using the link: https://www.certificate.digital/record-video/ https://www.capricornca.com/record-video/
+
+(d) Using the Capricorn. cash system, the link could be directly sent to the customer.
+
+What are the modalities available if the DSC is lost/stolen or the token is damaged/corrupted? Can we redownload the DSC?
+If the DSC is lost/stolen or the token is damaged/ corrupted, then that DSC needs to be revoked and one will have to process a new one by paying the requisite cost. However, if there happens to be a technical glitch from our end while downloading the DSC into the token, then, it can be re-downloaded after approval from the technical support officer.
+
+How long does it take for the approval of DSC’s?
+Once all the formalities are met from the clients’ end, it will take as much as 5 minutes for us to approve the DSC.
+
+What is the system for approval?
+To approve orders, just enter the "Order ID" in the chat and support window, without any calls or emails to avoid further delays and complications.
+
+Can the Partners have access to the approval system so they can approve the orders themselves?
+No, Capricorn cannot outsource its approval system to any Partners / Resellers / Associates as it would be against the CCA guideline.
+
+When are your customer care/ technical support services available?
+Our customer care/support timings are from 9:30 A.M to 7:00 P.M., Mondays to Saturdays, and can be reached on 011- 61400000.
+
+What are the ways and means to connect with Capricorn in case Partners or their channels are facing an issue?
+One can connect with Capricorn via; Online Chat Phone call –
+
+(a) Account Managers & Relationship Managers
+
+(b) Customer/Technical support Email
+
+Why should the Partner(s)/Client(s) choose Capricorn?
+Capricorn is a partner-centric company that values transparency, ethics, and long-term relationships. We offer dedicated support to our partners and clients, an approval team that is ready to go the extra mile to help your business grow, and “Relationship Managers” to maintain your portfolio/account and cater your day to day queries. We also provide leads to our clients for potential business partners to boost their business.
+
+
+How can we earn multifariously using Capricorns’ system?
+Capricorn provides several benefits to clients in multiple forms such as Incentives, cashback, turnover Incentives, investment bonuses, and additional discounts on stocks / Counter purchases, etc. We also offer a loyalty bonus for our exclusive Capricorn Partners making it a rewarding experience for them.
+
+What kind of system interface does Capricorn offer?
+Capricorn offers CASH (Central Accounting Sales & Housekeeping).
+
+(a) We have two models for processing orders; Capricorn Wallet (It’s a prepaid plan) Counter options (Stock purchase system)
+
+(b) For buying a stock or adding money in the wallet, there is no need to contact anyone or send a PO. By using Capricorn. Cash portal/login, one can buy a Stock or add money in the wallet using an online payment gateway anytime even on bank holidays.
+
+(c) Sign up link for creating channels and Buy DSC link for generating orders.
+
+(d) You can set your pricing for your channels which itself is a unique feature.
+
+What are the services offered by Capricorn?
+Capricorn offers a comprehensive array of enterprise-level signing solutions, including PDF/Text/XML signing with USB Token, E-Sign services featuring OTP-based single-use signing, and a versatile API solution compatible with browser applications (currently available for Windows, with a Linux version in Beta).
+
+Additionally, Capricorn provides Enterprise CA solutions for organizations desiring an internal Certification Authority that seamlessly collaborates with clients and employees. The service portfolio extends to Bulk Signing Solutions, catering to both USB Token and Hardware Security Module (HSM) bulk signing needs.
+
+Furthermore, Capricorn offers Document Signer Certificates, encompassing both Class 2 and Class 3 certifications, ensuring secure and authenticated document signing for enterprises.
+
+Why does Capricorn sell DSC’s at a relatively higher rate? Why can’t Capricorn offer the direct prices to Partner(s)/Client(s)?
+Our prices are competitive and not high we would say because Partners make more money using our system. They get huge margins only in our system. Being a technology-driven company, we offer a robust technology that makes us distinct from other CA’s like – Mobile apps to process your DSC from anywhere, video recording, uploading the scanned document, etc. We have different mobile applications available on Google’s play store as well as on the Apple store to make your task easier. For example: “Capricorn Customer Application”, “Capricorn DSC Channel, etc. Given the above said technologies, we are constrained to offer our services at a certain cost.
+
+How can the business with channel partners be secured with Capricorn?
+As Capricorn is a partner first company so we never approach any resellers/associates of any partner to join Capricorn directly. If any channel contacts Capricorn directly to join, we always ask them “Why do you want to join with us directly”? If the reseller answers that the partner is not supportive or facing any other issues, firstly we try to resolve their issues, if that doesn’t work, we ask for seeking NOC from the partner against that reseller, and then, once we have the NOC’s from the respective partner, we onboard them. This manifests our work ethics and our commitment towards our Partners to safeguard their interests.
+
+Do we need to execute an agreement/arrangement between Partner(s)/Client(s)?
+Certainly, there shall be an agreement entered into between Partner(s)/Client(s) which is duly executed on a non – judicial e- stamp paper and sent to Partner(s)/Client(s) within a month of onboarding, and on acceptance of the terms and conditions enumerated under the said Agreement, the Partner(s)/Client(s) shall digitally sign the Agreement and send the same to Capricorn.
+
+Are the Partner(s)/Client(s) allowed to participate in tenders?
+Yes, there is absolutely no bar on the Partner(s)/Client(s) to participate in tenders for which Capricorn issues an “Authority Letter” on its letterhead stating that the Partners are permitted to execute independent orders from the government.
+
+Does Capricorn conduct training programs / Partners meet / Conferences?
+Yes, we conduct webinars, training programs bi-monthly to educate our clients about our system and if there are any updates in the system. We also conduct Partners meet /Conference once a year where we sit together and discuss our future strategy and upcoming changes and new launches.
+
+Who is a “Consortium Partner” and what are the criteria to become a Consortium Partner?
+A Consortium Partner gets onboarded with Capricorn by paying Rs.50 Lacs in one go. The benefit of being a consortium partner as compared to our Freedom Partner is that Consortium Partners can transfer its stocks to regular freedom partners which is not the case with freedom partners. Freedom partners can only transfer their stocks to their reseller channels and not even to their referred or aligned partners.
+
+Who is an Exclusive / Premier Partner?
+An exclusive/premier partner is only associated with Capricorn and no other CA’s. Premier partners enjoy an extra benefit in contrast to freedom partners in terms of rates, loyalty bonuses, etc.
+
+What is DSC – League?
+DSC league is a loyalty and reward program run by Capricorn to reward its top 10 Partners from PAN India who have achieved the top 10 ranks by selling Capricorn DSC. In other words, Capricorn rewards its partner based on their sales and according to the parameters stated in dsc league website.
+
+What is the key virtue of Capricorn that makes it a reliable Company to work with?
+Loyalty and Trust should be the foremost reasons to be considered when it comes to engaging in business relationships. Capricorn is the company that brought the technology of PKI through the introduction of Aladdin USB keys with the efforts of Founder & CEO – Mr. Rajesh Mittal way back in 1995. Since its inception, Capricorn is pursuing and consolidating his thoughts of loyalty.
+
+Do our Partner(s)/Client(s) consider working with Startups as beneficial?
+Yes, definitely. When you start working with start-ups like Capricorn, you become a nationwide trusted brand when it comes to technology improvisation, bringing a revolution in the industry through more benefitted protocols, generating more economic opportunities, and others. The government also prefers start-ups because they are novice players and are very keen observers of the dedicated vision to change and modernize India through various global aspects.
+
+Does Capricorn offer a Partner program with a geographical restriction?
+No, we do not restrict any partner. Partners can create their channel PAN INDIA.
+
+Does Capricorn offer a state-wise partner program?
+No, Capricorn does not offer a state-wise partner program because we believe in equal opportunity for all and hence, we do not restrict people from joining us even from the same state where there is an existing partner of Capricorn.
+
+What are the modes of payment to Capricorn?
+There are 2 modes of payment to Capricorn; a) Capricorn’s bank account b) Online payment through PayU payment gateway.
+
+Can the Partner(s)/Client(s) create an Employee login from their account so that they could provide limited access to their employees?
+Yes, Capricorn extends an option where the Partner can create unlimited employee logins, and the former exercises full control.
+
+What is Public key infrastructure (PKI)?
+PKI or Public Key Infrastructure is a set of comprehensive system policies, procedures, and technologies working together to allow secure and confidential communication between internet users. It involves encryption of information at the sender's end and decryption at receiver's end.
+
+How are PKI and security associated?
+PKI manages and regulates cryptography i.e. encryption and decryption of data, which is a security measure for safe keeping of confidential data. PKI accomplishes this task by pro-offering the facility of encoding an information at sender's end and decoding it on the receiver's end.
+
+What is cryptography?
+Cryptography is the practice of employing encryption and decryption techniques for a secure sharing and storing of data and information across insecure networks such as the Internet, in a secure manner. Cryptography essentially comprises of encrypting the information at one end and decrypting it at the other end. Encrypted data remains hidden and inaccessible to everyone except the intended recipient.
+
+What is encryption and decryption of data?
+Encryption is the process of encoding a message or a piece of information in such a manner, that only the authorized party can receive and go through it. The sender of the information uses an encryption key to scramble information so that it is unintelligible to adversaries.
+
+Decryption is the complementary process of encryption. A user who receives an encrypted data needs to decrypt it before he can go through it. Decryption converts the scrambled information back to its original form by the use of a decryption key.
+
+What are the types of cryptography?
+Symmetric, or secret key, cryptography uses a single key to both encrypt and decrypt the data.
+
+Asymmetric, or public key cryptography is a method for securely exchanging messages, by assigning a complimentary pair of keys, one public and one private, to the individuals involved in the exchange of information.
+
+What is the difference between public and private keys?
+Private key is one of the key of a key pair used to create a Digital Signature. Private key is kept confidential.
+
+A Public Key, as the name suggests, is made available to everyone.
+
+How does a Digital Certificate work in Public Key Infrastructure (PKI)?
+Public Key Infrastructure is the regulatory process behind the use and functioning of digital certificates. PKI employs cryptography in digital signature certificates for controlling the flow of information and limiting it to intended recipients. The certificate contains information about a user's identity along with the public key for accessing the information.
+
+The private key is retained with the digital certificate holder on a computer hard disk or on an external device such as a smart card. The owner of the digital certificate is in control of the private key which can only be used with the issued password.
+
+What is the difference between digitally signing and encrypting an e­mail?
+Digitally signing an e­mail message comprises of attaching a Digital Certificate to it so that the recipient is reassured that the sender of the information is authentic and the information has not been tampered midway. Although, signing a message does not ensures protection from third party monitoring.
+
+Encrypting a message ensures that the information being shared on an insecure network can be accessed by the intended recipient of the information only. This is a safeguard measure against monitoring of confidential information. In order to send a signed message, you must have a Digital Certificate. Encrypting a message requires the sender to have the recipient's Digital Certificate.
+
+
+What actually happens when I digitally sign any transaction?
+Once a transaction is digitally signed, it gets encrypted by a private key. When the recipient receives the information with the digital certificate attached to it, he can verify the information using the public key associated to the certificate.
+
+Thus, signing a transaction:
+
+Verifies a user's identity and maintains non-repudiation of information
+Establishes user's credentials to perform the transaction
+Protects the integrity and ingenuity of the information itself.
+Once a transaction is digitally signed by a user, it offers a substantial proof of involvement of user in the transaction, this is referred to as non-repudiation of information.
+
+What is a Certifying Authority?
+Certifying Authorities are licensed bodies which facilitate digital signature certificate. Certifying authorities are regulated by the Controller of Certifying Authorities (CCA), a government of India endeavour. They are licensed to issue, revoke, renew and cache digital signature certificates.
+
+What is CCA?
+The Controller of Certifying Authorities (CCA) is a subsidiary of the Government of India. It issues license to CAs and regulates their working. The CCA offers certification to public keys of CAs. The Controller of Certifying Authorities (CCA) has been appointed by the Central Government of India under section 17 of the IT Act 2000, to monitor all the CAs in the country.
+
+What is the role of CCA?
+The role of the Controller of CAs (CCA) is to regulate and license the activities of CAs. As CAs perform a trusted role in verifying the identities of parties in electronic transactions, the CCA seeks to provide the assurance that the CAs' responsibilities are met and that these services are made available with apt security and service standards.
+
+RCAI or the Root Certifying Authority of India is responsible for digitally signing the public keys of all the licensed CAs in India. It was established by the CCA under Section 18(b) of the IT Act 2000. The RCAI root certificate is the highest level of digital certification in the country and hence RCAI root certificate is a self ­signed certificate.
+
+The key activities of the RCAI are:
+
+Digitally signing licenses issued by CCA to CA
+Digitally signing public keys corresponding to private keys of a CA
+Ensuring availability of signed certificates for verification by a relying party through the CCA or CA.
+
+What is NRDC?
+CCA is also responsible for maintaining the National Repository of Digital Signature Certificate (NRDC), which is a storage facility of all the digital certificates issued by numerous CAs in India. NRDC is also responsible for keeping a record of all the expired and revoked digital certificates and facilitates verification of public keys issued by various CAs.
+
+What is a Associate?
+An Associate is an official for a Certifying Authority available for the subscriber to initiate the application/registration process. Associate collects the filled in application form along with admissible documents. The application form and the documents are then verified for their authenticity and accuracy. Once the verification is approved by the associate the application is processed further and the certificate is produced.
+
+What are Certificate Policies?
+Certificate Policies describe details of different classes of certificates issued by a Certifying Authority. These details include procedures involved in the issuance and revocation of digital certificates and terms of usage of certificates.
+
+What is Certification Practice Statement (CPS)?
+Certification Practice Statement is a statement of practice or a code of conduct, employed by a licensed Certifying Authority in issuing and managing digital certificates. A CPS may be drafted by the CA as a declaration with the details of its management system and the practices it employs in its operations for issuance of a certificate.
+
+What is a Subscriber Agreement?
+Subscriber Agreement is an agreement between a subscriber and a Certifying Authority for the provision of designated public certification services in accordance to a Certification Practice Statement.
+
+What is key agreement protocol?
+A key agreement protocol is a secure and convenient mode for two or more parties to resolve upon a key to be used for a secret ­key cryptography. It is also referred to as key exchange protocol. Key agreement protocol allows users to share keys freely and securely over any insecure medium, without employing the use of a previously established shared secret.
+
+What does "Relying Party" mean?
+A Relying Party is an individual or an entity that relies on the information provided in a digital certificate.
+
+What is Certificate Validation?
+Certificate Validation refers to the procedure of determining the status of a certificate I.e. whether it is valid, expired or revoked. Digital certificates has a validity period of one , two and three years.
+
+What is Certificate Validation Mechanism?
+It is the mechanism used to check the validity of the digital signature certificate, every time a digital signature certificate is used to sign a transaction. This ensures that the certificate has not been revoked or expired.
+
+What are the various validation mechanisms available?
+One can validate a certificate by using one of these mechanisms; CRL, OCSP or CAM.
+
+What is Certificate Revocation?
+Certificate Revocation is the cancellation of the Digital Signature Certificate.
+
+A certificate may be revoked because of any of the following reasons:­
+
+Inaccuracy of the data on the digital certificate.
+Revocation on the request from the subscriber of the digital certificate.
+In case of secrecy, where the private key is being compromised.
+Change of any information on the digital certificate.
+
+What is Certificate Revocation List (CRL) ?
+Certificate Revocation list is a list published by Certifying Authorities that contains details of all the digital certificates that have been revoked, expired, or are considered no longer valid. The CRL is updated on a periodic basis and published at regular intervals by Certificate Authorities.
+
+What is a CRL Validation?
+CRL validation is one of the mechanisms to check the validity or status of the Digital Signature Certificates. A digital certificate can be checked against the list of digital certificate enlisted in CRL. If the details of a digital certificate are present in the CRL, it implies that the digital certificate is no longer valid.
+
+What is OCSP Validation ?
+OCSP which stands for online certificate status protocol, is another mechanism to check the validity of a digital certificate. Whenever a user tries to use the digital certificate over the server, OSCP requests a validity check,the server responds back with the status of the digital certificate.
+
+What is CAM?
+The Certificate Arbitrator Module (CAM) provides validation services across different vendors of the ACES (Access certificates for electronic services) program.
+
+Why do I need to validate a Digital Certificate?
+Validation of a Digital Certificate is required to check the status of a digital certificate, to ensure that the digital certificate is valid for use and has not been revoked, changed, or expired.
+
+Technology
+What is an e-­token?
+An E-tokens is a secure hardware device that contains private and public key certificates, and a cache of other certificates. E-Tokens enhance the security of data on public and private networks. E-tokens can be used to generate and provide secure storage for passwords and Digital certificates, for secure authentication, digital signing and encryption.
+
+What is a hash algorithm?
+A hash algorithm is a function that converts a data string into a numeric string output of a fixed length which is generally much smaller than the original data. Hash algorithm can be used in the encryption and decryption of digital signatures. The hash function transforms the digital signature, then both the hash value and signature are sent to the receiver. The receiver uses the same hash function to generate the hash value and then compares it to that received with the message. If the hash values are the same, it is likely that the message was transmitted without errors.
+
+What is a Cryptographic Service Provider?
+Cryptography Service Providers or CSPs, provide hardware and software-based encryption and decryption. A CSP is responsible for creating and revoking keys, and using them to perform a variety of cryptographic operations.
+
+What is SSL (secure socket layer)?
+An SSL (Secure Sockets Layer) is a standard security technology. It provides a secure connection between internet browsers and websites, allowing you to transmit private data online. Websites frequently use SSL technology for secure online monetary transactions through credit cards or internet banking.
+
+What is MIME?
+Multipurpose Internet Mail Extensions, (MIME) is an Internet standard format that allows the attachment and sending of non-text files including compressed files, sound clips, graphics files, and videos to an e-mail.
+
+What is Secure Multipurpose Internet Mail Extensions (S/MIME)?
+S/MIME, which abbreviates from Secure/Multipurpose Internet Mail Extensions, is a standard for public key encryption and signing of MIME data i.e. an email message. It defines the specifications to support the signing and encryption of e-mail security to be transmitted across the Internet.
+
+What do X.509 and X.500 mean?
+X.509: - is an standard for a public key infrastructure (PKI) to verify that a public key belongs to the user, computer or service identity contained within the certificate.An X.509 certificate contains information about the identity to which a certificate is issued and the identity that issued it.
+
+
+X.500: - The X.500 directory service is a global directory service whose components cooperate to manage information about objects including countries, organizations, people and machines in a worldwide scope. It provides the ability to look up information by name and also to browse and search for information.
+
+What is Message Digest?
+Message digests are designed to protect the integrity of a piece of data or media to detect changes and alterations to any part of a message.
+
+They are a type of cryptography utilizing hash values that can warn the copyright owner of any modifications introduced to their work.
+
+Each message digest hash number is specified for a particular file containing protected work. Thus, one message digest is assigned to particular data content. It refers to any change made deliberately or accidentally to the protected work. It also prompts the owner to identify the modification as well as the individual making the change.
+
+
+What is PKCS ?
+The Public-Key Cryptography Standards (PKCS) are a set of inter vendor standard protocols for making possible secure information exchange on the Internet using a public key infrastructure (PKI). PKCS or public key cryptography standards are formulated and published by the RSA security which also promotes the use of cryptographic techniques. It can be said that PKCS includes all the techniques that are used in modern day cryptography.
+
+What is Smart Card?
+A smart card is a plastic card which looks similar to a credit card. It has a built-in microprocessor and memory which is used for identification during financial transactions. When it is inserted into a reader, it transfers data to and from a central computer. It is more secure than a magnetic stripe card. It can also be programmed for Self-destruction to prevent its misuse. Self destruction is initiated if an unauthorized authentication is being performed several times.
+
+What is HSM card ?
+A hardware security module (HSM) is a hardware device that stores and secures digital keys for authentication and provides cryptographic processing. They are generally in the form of a plug-in card or an external device that is attached directly to a computer or network server.
+
+What is MD5 ?
+The MD5, message-digest algorithm is a widely used cryptographic hash function that is used to verify data integrity through the creation of a 128-bit message digest from data input. MD5 has been utilized in a wide variety of cryptographic applications, it is also used to verify data integrity.
+
+What is the minimum system software and hardware requirement for download a DSC ?
+Please use a system with a minimum configuration of
+
+Windows 7 Sevice pack 1
+Internet Explorer 9
+.Net Framework 4.5
+but we would prefer a system with the latest configuration.
+
+Windows 10
+Internet Explorer 11
+.Net Framework 4.5

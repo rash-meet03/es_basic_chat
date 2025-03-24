@@ -1,0 +1,11 @@
+flask
+PyPDF2
+langchain
+faiss-cpu
+requests
+numpy
+python-dotenv
+Markdown
+openai
+celery
+redis
